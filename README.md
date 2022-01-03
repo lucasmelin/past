@@ -18,3 +18,7 @@ past file_you_want_to_lint.py
 # Run the unit tests
 pytest -vvv
 ```
+
+---
+
+[![codecov](https://codecov.io/gh/lucasmelin/past/branch/main/graph/badge.svg?token=NGCH824FON)](https://codecov.io/gh/lucasmelin/past)
